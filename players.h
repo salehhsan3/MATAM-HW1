@@ -14,6 +14,7 @@ typedef struct players_container_t *PlayersContainer;
 /*struck of a player in the system in order to save his id and the information regarding the tournament
 he played in (tournament id, wins, lose and ties in the tournament for the player and how many games
 he played in the tournament)*/
+/*OMG BROO FINALLY USING GIT FFS*/
 typedef struct player_t *Player;
 
 /*create an empty players list
